@@ -1,4 +1,4 @@
-### Hi there 👋[![MasterHead]([https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjl6N3RqZmRwdTk2bTZ6YnBnMWpkeTY2YmY0MDh3NWl6dHA2cnZjbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CcwLAV11cALh3OuEJ5/giphy.gif])(https://BalogunFaruq.io)<!-- Update this Portfolio link later -->
+### Hi there 👋[![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjl6N3RqZmRwdTk2bTZ6YnBnMWpkeTY2YmY0MDh3NWl6dHA2cnZjbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CcwLAV11cALh3OuEJ5/giphy.gif])(https://BalogunFaruq.io)<!-- Update this Portfolio link later -->
 <h1 align="center">Hi 👋, I'm Balogun Faruq</h1>
 <h3 align="center">A passionate and aspiring frontend developer from Nigeria</h3>
 
