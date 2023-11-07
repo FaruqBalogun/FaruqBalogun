@@ -1,7 +1,7 @@
 ### Hi there 👋[![MasterHead]([https://giphy.com/gifs/coding-programming-ninjas-CcwLAV11cALh3OuEJ5](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzk0YThnOWNkcnZnbmY3N3gzdjJtbzQ2M2wxMTEwNXN4b2EwYWJ1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CcwLAV11cALh3OuEJ5/giphy.gif))](https://BalogunFaruq.io)<!-- Update this Portfolio link later -->
 <h1 align="center">Hi 👋, I'm Balogun Faruq</h1>
 <h3 align="center">A passionate and aspiring frontend developer from Nigeria</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXlxaDNsaHpmb2wxY3JwcmlndzJ5emczdTcxa3d6b2ZteGR4NmVjbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faruqbalogun&label=Profile%20views&color=0e75b6&style=flat" alt="faruqbalogun" /> </p>
 
