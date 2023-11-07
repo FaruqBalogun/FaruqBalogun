@@ -11,7 +11,10 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 📫 How to reach me **faruqbalogun10@gmail.com**
-
+- - 🌱 I’m currently learning ... Software Engineering
+- 👯 I’m looking to collaborate on ... Front-end Project
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ... HTML, CSS, JAVASCRIPT, PYTHON
 - ⚡ Fun fact **I'm cool, funny and fun to work with**
 
 <h3 align="left">Connect with me:</h3>
